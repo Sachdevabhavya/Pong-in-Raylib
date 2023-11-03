@@ -4,7 +4,10 @@ This is a simple Pong game created using the [Raylib](https://www.raylib.com/) l
 
 ## Table of contents:
 
--[How to play](#how-to-play) -[Features](#Features) -[How to Build and Run](#how-to-build-and-run) -[Controls](#controls)
+- [How to Play](#how-to-play)
+- [Features](#features)
+- [How to Build and Run](#how-to-build-and-run)
+- [Controls](#controls)
 
 ## How to Play
 
