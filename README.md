@@ -38,12 +38,7 @@ This is a simple Pong game created using the [Raylib](https://www.raylib.com/) l
 
 2. Make sure you have Raylib installed. You can download it from the official website: [Raylib Download](https://www.raylib.com/)
 
-3. Compile and run the game using a C compiler. For example, you can use GCC:
-
-   ```bash
-   gcc -o pong pong.c -lraylib -lGL -lm -lpthread -ldl -lrt -lX11
-   ./pong
-   ```
+3. Compile and run the game using a C compiler. 
 
 4. Follow the on-screen instructions to play the game.
 
