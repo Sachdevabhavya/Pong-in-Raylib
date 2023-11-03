@@ -3,19 +3,18 @@
 This is a simple Pong game created using the [Raylib](https://www.raylib.com/) library. The game allows two players to control paddles and bounce a ball back and forth. The objective is to score points by getting the ball past the opponent's paddle.
 
 ## Table of contents:
--[How to play](#how-to-play)
--[Features](#Features)
--[How to Build and Run](#how-to-build-and-run)
--[Controls](#controls)
 
+-[How to play](#how-to-play) -[Features](#Features) -[How to Build and Run](#how-to-build-and-run) -[Controls](#controls)
 
 ## How to Play
 
 - Player 1 controls the left paddle:
+
   - Press 'W' to move the paddle up.
   - Press 'S' to move the paddle down.
 
 - Player 2 controls the right paddle:
+
   - Press the 'UP' arrow key to move the paddle up.
   - Press the 'DOWN' arrow key to move the paddle down.
 
@@ -48,12 +47,13 @@ This is a simple Pong game created using the [Raylib](https://www.raylib.com/) l
 ## Controls
 
 - Player 1:
+
   - Move up: 'W'
   - Move down: 'S'
 
 - Player 2:
+
   - Move up: 'UP' arrow key
   - Move down: 'DOWN' arrow key
 
 - Quit the game: Close the game window or press the 'ESC' key.
-
