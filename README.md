@@ -3,10 +3,10 @@
 This is a simple Pong game created using the [Raylib](https://www.raylib.com/) library. The game allows two players to control paddles and bounce a ball back and forth. The objective is to score points by getting the ball past the opponent's paddle.
 
 ## Table of contents:
--[How to play](#how-to-play)
--[Features](#Features)
--[How to Build and Run](#how-to-build-and-run)
--[Controls](#controls)
+- [How to Play](#how-to-play)
+- [Features](#features)
+- [How to Build and Run](#how-to-build-and-run)
+- [Controls](#controls)
 
 
 ## How to Play
